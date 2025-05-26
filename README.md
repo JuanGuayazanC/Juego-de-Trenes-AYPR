@@ -53,7 +53,7 @@ Las cartas aseguradas **no pueden ser modificadas** por el dado.
 3. Ejecuta el archivo `Tren.py` con Python 3:
 
    ```bash
-   python Trenpy
+   python Tren.py
    ```
 
 4. Sigue las instrucciones en pantalla para jugar.
