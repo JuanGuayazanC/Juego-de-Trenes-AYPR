@@ -2,7 +2,8 @@
 
 CLAUDIA PATRICIA CASTAÑEDA BERMUDEZ
 - LAURA VALENTINA TORRES CÁRDENAS <laura.torres-c@mail.escuelaing.edu.co>
-- JUAN SEBASTIÁN GUAYAZÁN CLAVIJO <juan.guayazan-c@mail.escuelaing.edu.co>   
+- JUAN SEBASTIÁN GUAYAZÁN CLAVIJO <juan.guayazan-c@mail.escuelaing.edu.co>
+  
 Algoritmos y Programación (ISIS AYPR-62 LEC y AYPR-6201 LAB)   
 Decanatura Ingeniería de Sistemas → Centro de Estudios de Fundamentos de Computación    
 Ingeniería de Sistemas y Matemáticas    
